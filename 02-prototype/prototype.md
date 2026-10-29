@@ -1,21 +1,9 @@
-# Prototype · Juno
+I am a product manager in the webex collaboration product space. 
 
-> Module 2 · Prototype. The working build that tests your idea, made with your build tool of choice.
+Task - Track all the customer feature requests that come into my webex/slack messages, build a priority order. Provide me an option to create a JIRA ticket
 
-## Prototype link
+Constraints
+1. Do not use PII data
+2. do not create a JIRA ticket autonomously
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
-
-_____
-
-## What it demonstrates
-
-_The one flow this prototype proves._
-
-_____
-
-## Debrief
-
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+Format: Create a dashboard artifact for the same
